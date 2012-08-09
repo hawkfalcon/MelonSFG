@@ -1,0 +1,8 @@
+name: MelonSeedsFromGrass
+version: 0.2
+main: com.hawkfalcon1.MelonSeedsFromGrass.MelonSeedsFromGrass
+permissions: 
+    MelonSeedsFromGrass.use:
+        description: Allows use of plugin
+        default: true
+  
